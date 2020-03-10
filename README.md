@@ -1,0 +1,2 @@
+# first
+tìm hiểu github
